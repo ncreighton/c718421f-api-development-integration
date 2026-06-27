@@ -1,2 +1,45 @@
-# c718421f-api-development-integration
-You're drowning in API documentation tabs, scattered Postman collections, and forgotten integration notes across multiple browser windows. The API Development &amp; Integration Bookmark Manager and Knowledge Base Chrome Extension transforms the chaos into a searchable, organized command center that lives right in your browser.  Stop wasting 15+ minutes
+# API Development & Integration Bookmark Manager and Knowledge Base Chrome Extension
+
+> Extension for Api Development
+
+You're drowning in API documentation tabs, scattered Postman collections, and forgotten integration notes across multiple browser windows. The API Development & Integration Bookmark Manager and Knowledge Base Chrome Extension transforms the chaos into a searchable, organized command center that lives right in your browser.
+
+Stop wasting 15+...
+
+## Features
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Core features | ✅ | ✅ |
+| Community support | ✅ | ✅ |
+| Basic configuration | ✅ | ✅ |
+| Advanced automation | ❌ | ✅ |
+| Priority support | ❌ | ✅ |
+| Custom configurations | ❌ | ✅ |
+| Auto-updates | ❌ | ✅ |
+| Premium integrations | ❌ | ✅ |
+| Unlimited usage | ❌ | ✅ |
+
+## Get the Full Version
+
+Upgrade to the Pro version for **$29.99** and unlock all premium features.
+
+**[Buy on Gumroad](https://cleargum.gumroad.com/l/ffduh)** — Instant download, lifetime updates
+
+**[Buy Now (Stripe)](https://buy.stripe.com/dRmfZh8v55wgf44dI0cZo3C)** — Secure checkout
+
+## Installation
+
+1. Download the latest release from the [Releases page](../../releases)
+2. Extract and follow the setup instructions in the included documentation
+3. For Pro features, enter your license key after purchase
+
+## Support
+
+- Open an [issue](../../issues) for bug reports
+- Pro customers get priority support via the [purchase platform](https://cleargum.gumroad.com/l/ffduh)
+
+## License
+
+Free tier: MIT License for personal and commercial use.
+Pro tier: Commercial license included with purchase.
